@@ -1,6 +1,6 @@
 <?php
 /**
- * The template-header for our theme.
+ * The header(1) for our theme.
  *
  * This is the template that displays all of the <head> section and everything up until <div id="content">
  *

@@ -2,7 +2,7 @@
 /* Template Name:  Homepage Two */ 
 ?>
 
-<?php get_template-header(); ?>
+<?php get_header(1); ?>
 
 testing second homepage
 
